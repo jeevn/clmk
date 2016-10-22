@@ -4,11 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 2,
+			"revision" : 10,
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 40.0, 58.0, 1121.0, 712.0 ],
+		"rect" : [ 40.0, 58.0, 135.0, 75.0 ],
 		"openrect" : [ 0.0, 0.0, 135.0, 75.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -22,8 +22,8 @@
 		"toolbarvisible" : 1,
 		"boxanimatetime" : 200,
 		"imprint" : 0,
-		"enablehscroll" : 1,
-		"enablevscroll" : 1,
+		"enablehscroll" : 0,
+		"enablevscroll" : 0,
 		"devicewidth" : 0.0,
 		"description" : "",
 		"digest" : "",
@@ -81,7 +81,7 @@
 					"presentation_linecount" : 2,
 					"presentation_rect" : [ 0.0, 20.0, 135.0, 47.0 ],
 					"text" : "CAPS LOCK\nto enable",
-					"textcolor" : [ 255.0, 255.0, 255.0, 1.0 ],
+					"textcolor" : [ 255.0, 255.0, 255.0, 0.0 ],
 					"textjustification" : 1
 				}
 
@@ -89,7 +89,7 @@
 , 			{
 				"box" : 				{
 					"angle" : 270.0,
-					"bgcolor" : [ 0.0, 0.0, 0.0, 0.67 ],
+					"bgcolor" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"bordercolor" : [ 0.803922, 0.898039, 0.909804, 0.0 ],
 					"id" : "obj-104",
 					"ignoreclick" : 0,
@@ -510,7 +510,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 10,
 							"architecture" : "x86"
 						}
 ,
@@ -975,7 +975,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 10,
 							"architecture" : "x86"
 						}
 ,

@@ -4,11 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 2,
+			"revision" : 10,
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 40.0, 58.0, 1243.0, 697.0 ],
+		"rect" : [ 40.0, 58.0, 195.0, 120.0 ],
 		"openrect" : [ 0.0, 0.0, 195.0, 120.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -22,8 +22,8 @@
 		"toolbarvisible" : 1,
 		"boxanimatetime" : 200,
 		"imprint" : 0,
-		"enablehscroll" : 1,
-		"enablevscroll" : 1,
+		"enablehscroll" : 0,
+		"enablevscroll" : 0,
 		"devicewidth" : 0.0,
 		"description" : "",
 		"digest" : "",
@@ -515,7 +515,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 10,
 							"architecture" : "x86"
 						}
 ,
@@ -980,7 +980,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 2,
+							"revision" : 10,
 							"architecture" : "x86"
 						}
 ,
