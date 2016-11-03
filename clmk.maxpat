@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 210.0, 58.0, 658.0, 544.0 ],
+		"rect" : [ 210.0, 58.0, 612.0, 748.0 ],
 		"openrect" : [ 0.0, 0.0, 135.0, 75.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -459,10 +459,10 @@
 					"patching_rect" : [ 615.0, 510.0, 90.0, 67.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 2,
-					"presentation_rect" : [ 0.0, 36.0, 135.0, 47.0 ],
+					"presentation_rect" : [ 0.0, 21.0, 135.0, 47.0 ],
 					"style" : "",
 					"text" : "CAPS LOCK\nto enable",
-					"textcolor" : [ 255.0, 255.0, 255.0, 0.0 ],
+					"textcolor" : [ 255.0, 255.0, 255.0, 1.0 ],
 					"textjustification" : 1
 				}
 
@@ -470,7 +470,7 @@
 , 			{
 				"box" : 				{
 					"angle" : 270.0,
-					"bgcolor" : [ 0, 0, 0, 0 ],
+					"bgcolor" : [ 0, 0, 0, 0.67 ],
 					"bordercolor" : [ 0.803922, 0.898039, 0.909804, 0.0 ],
 					"id" : "obj-104",
 					"ignoreclick" : 0,
@@ -480,7 +480,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 735.0, 450.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 0.0, 75.0, 135.0, 60.0 ],
+					"presentation_rect" : [ 0.0, 15.0, 135.0, 60.0 ],
 					"proportion" : 0.39,
 					"style" : ""
 				}
@@ -3151,6 +3151,15 @@
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-93", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-48", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-93", 1 ]
 				}
 
 			}
